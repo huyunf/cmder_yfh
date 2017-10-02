@@ -1,1 +1,36 @@
 cmd
+cmd
+cd D
+D
+D:
+C:
+cd ..\..\Yunfeng\Software\cmder_yfh\
+ll
+ls
+cd ../
+git clone https://github.com/huyunf/cmder_yfh.git cmder_reference
+alias
+cd ..\..\Yunfeng\Software\
+cd cmder_yfh\
+ll
+git  status
+git diff vendor/conemu-maximus5/ConEmu.xml
+ll
+C:
+cd ..\..\Yunfeng\Software\cmder_yfh\
+ll
+cd ../
+git clone https://github.com/huyunf/cmder_yfh.git cmder_reference
+cd ..\..\Yunfeng\Software\
+cd cmder_yfh\
+ll
+git  status
+git diff vendor/conemu-maximus5/ConEmu.xml
+alias ll=ls -lF --color $*
+alias
+alias l=ls -laF --color $*
+ls
+l
+pwd
+ll
+vi a
